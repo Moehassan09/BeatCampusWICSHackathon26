@@ -1,0 +1,5 @@
+{
+  "name": "BeatCampus UVA",
+  "description": "A music-synced campus event map for UVA. Discover events through shared vibes and real-time Spotify integration.",
+  "requestFramePermissions": ["geolocation"]
+}
